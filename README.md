@@ -127,7 +127,7 @@ A computer-vision-based concept for monitoring workplace safety and detecting wo
 * AI Engineering
 * AI Agents
 * Data Analytics
-* Forward Deployed Engineering
+* Farword Deployed Engineering
 
 ---
 
