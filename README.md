@@ -16,7 +16,6 @@ My goal is to combine software engineering with **Forward Deployed Engineering p
 * ⚛️ React.js & Modern Frontend Development
 * 🟢 Node.js & Express.js Backend Development
 * 🤖 AI-Powered Web Applications
-* ☁️ Cloud & Application Deployment
 * 🔗 REST API & Third-Party API Integration
 * 🗄️ MongoDB & MySQL Database Development
 * 🚀 SaaS Product Development
