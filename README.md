@@ -107,28 +107,6 @@ An AI-powered social media automation platform designed to help users create, sc
 
 **Tech:** React.js • React Native • Node.js • Express.js • MongoDB • Gemini API • Google Maps API • Hugging Face
 
----
-
-### 🦺 AI Safety Monitoring System
-
-A computer-vision-based concept for monitoring workplace safety and detecting workers who violate safety rules using cameras and AI.
-
-**Focus:** Computer Vision • AI • Real-Time Monitoring • Alerts • Cloud • Analytics
-
----
-
-## 📚 Currently Learning
-
-* Advanced JavaScript
-* Advanced React.js
-* Node.js & Backend Architecture
-* System Design
-* AI Engineering
-* AI Agents
-* Data Analytics
-* Farword Deployed Engineering
-
----
 
 ## 📈 My Engineering Philosophy
 
