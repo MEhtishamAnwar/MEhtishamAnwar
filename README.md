@@ -107,17 +107,6 @@ An AI-powered social media automation platform designed to help users create, sc
 
 **Tech:** React.js • React Native • Node.js • Express.js • MongoDB • Gemini API • Google Maps API • Hugging Face
 
-
-## 📈 My Engineering Philosophy
-
-> **Build software that solves problems, not just software that looks good.**
-
-I believe great engineering combines:
-
-**Clean Code + User Needs + Business Understanding + Reliable Deployment + Continuous Improvement**
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in:
