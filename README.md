@@ -8,8 +8,6 @@
 * ⚛️ React.js & Modern Frontend Development
 * 🟢 Node.js & Express.js Backend Development
 * 🤖 AI-Powered Web Applications
-* 🔗 REST API & Third-Party API Integration
-* 🗄️ MongoDB & MySQL Database Development
 * 🚀 SaaS Product Development
 * 🧩 Real-World Problem Solving
 * 🔧 System Integration & Troubleshooting
@@ -73,8 +71,4 @@ An AI-powered social media automation platform designed to help users create, sc
 
 📧 **Email:** mehtishamanwar52@gmail.com
 
----
 
-### ⭐ Thanks for visiting my profile!
-
-**Building solutions. Delivering impact. 🚀**
