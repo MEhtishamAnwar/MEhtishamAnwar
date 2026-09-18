@@ -27,8 +27,6 @@ Areas I'm exploring:
 * AI automation
 * Intelligent dashboards
 * AI agents
-* Data-driven applications
-* Cloud deployment
 * API and system integration
 
 ---
