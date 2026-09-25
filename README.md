@@ -44,7 +44,6 @@ I’m interested in engineering solutions that:
 * Solve specific customer problems
 * Integrate with existing systems
 * Use AI where it creates real value
-* Can be deployed reliably
 * Scale with business needs
 * Improve through continuous feedback
 
