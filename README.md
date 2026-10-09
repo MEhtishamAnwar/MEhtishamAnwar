@@ -10,7 +10,7 @@
 * 🤖 AI-Powered Web Applications
 * 🚀 SaaS Product Development
 * 🧩 Real-World Problem Solving
-* 🔧 System Integration & Troubleshooting
+
 
 ---
 
