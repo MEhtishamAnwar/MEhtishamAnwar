@@ -18,7 +18,7 @@
 
 I’m currently focusing on building applications that combine:
 
-**Software Engineering + AI + SaaS + Cloud + Automation**
+**Software Engineering + AI + SaaS + Automation**
 
 Areas I'm exploring:
 
