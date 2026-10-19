@@ -12,8 +12,6 @@
 * 🧩 Real-World Problem Solving
 
 
----
-
 ## 🤖 AI & SaaS Focus
 
 I’m currently focusing on building applications that combine:
