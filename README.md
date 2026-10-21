@@ -18,8 +18,6 @@ I’m currently focusing on building applications that combine:
 
 **Software Engineering + AI + SaaS + Automation**
 
-Areas I'm exploring:
-
 * AI API integration
 * AI-powered SaaS applications
 * AI automation
