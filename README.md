@@ -21,7 +21,6 @@ I’m currently focusing on building applications that combine:
 * AI API integration
 * AI-powered SaaS applications
 * AI automation
-* API and system integration
 
 ---
 
